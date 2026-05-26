@@ -1,0 +1,4 @@
+type: landing-page
+public_origin: DictionaryOfNewTerms/Proamory
+real_project: roar-gits/Proamory
+purpose: Public-facing description of "proamory" (https://proamory.org). Product code lives in real_project. This working dir is a presentation artifact only — do NOT apply full project doctrine (artifacts/, guides/, initiatives infrastructure). Edits here are limited to landing-page content, design tokens, and deploy config.
